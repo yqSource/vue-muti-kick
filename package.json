@@ -1,0 +1,24 @@
+{
+    "name": "vue-muti-kick",
+    "version": "1.0.0",
+    "description": "vue muti kick ",
+    "main": "index.js",
+    "scripts": {
+        "test": "npm run build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yqSource/vue-muti-chik.git"
+    },
+    "keywords": [
+        "vue",
+        "muti",
+        "kick"
+    ],
+    "author": "tomnear",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/yqSource/vue-muti-chik/issues"
+    },
+    "homepage": "https://github.com/yqSource/vue-muti-chik#readme"
+}
